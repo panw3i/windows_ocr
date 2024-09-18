@@ -39,6 +39,7 @@ dependencies:
   window_manager: ^0.4.2
   fluent_ui: ^4.9.1
   url_launcher: ^6.3.0
+  toastification: ^2.2.0
 
 dev_dependencies:
   flutter_test:
